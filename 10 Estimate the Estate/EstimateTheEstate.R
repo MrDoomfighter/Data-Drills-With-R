@@ -1,0 +1,23 @@
+# load libraries
+library(dplyr)
+
+# read data
+manhattan_property_sales = read.csv("./10 Estimate the Estate/manhattan_property_sales.csv")
+
+# impute market value for properties without price
+manhatten_property_sales_imputed = manhattan_property_sales |>
+  mutate(
+    SALE_PRICE = na_if(SALE_PRICE, 0),
+    PricePerSqFt = SALE_PRICE / SQUARE_FEET
+  ) |>
+  group_by(ZIP_CODE, BUILDING_CLASS) |>
+  mutate(
+    PricePerSqFtImputed = coalesce(PricePerSqFt, mean(PricePerSqFt, na.rm = TRUE)),
+    MarketValue = coalesce(SALE_PRICE, PricePerSqFtImputed * SQUARE_FEET)
+  ) |>
+  ungroup()
+
+# count of properties above 15 Mil. market value
+manhatten_property_sales_imputed |>
+  filter(MarketValue > 15e6) |>
+  count()
