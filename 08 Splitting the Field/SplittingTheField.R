@@ -3,7 +3,7 @@ library(dplyr)
 library(tidyr)
 
 # read data
-baseballPositions = read.csv("baseball_positions.csv")
+baseballPositions = read.csv("./08 Splitting the Field/baseball_positions.csv")
 
 # transpose data
 baseballPositions_1 = baseballPositions |>

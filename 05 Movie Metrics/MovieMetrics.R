@@ -2,8 +2,8 @@
 library(dplyr)
 
 # read data
-activity = read.csv("activity.csv")
-users = read.csv("users.csv")
+activity = read.csv("./05 Movie Metrics/activity.csv")
+users = read.csv("./05 Movie Metrics/users.csv")
 
 # merge data
 users_activity = users |>

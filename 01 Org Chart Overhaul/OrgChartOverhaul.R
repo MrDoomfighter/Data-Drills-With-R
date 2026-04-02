@@ -2,7 +2,7 @@
 library(dplyr)
 
 # read data
-OfficeSpace = read.csv("OfficeSpace.csv")
+OfficeSpace = read.csv("./01 Org Chart Overhaul/OfficeSpace.csv")
 
 # lookup hierarchy
 OfficeSpaceHierarchy = OfficeSpace |>

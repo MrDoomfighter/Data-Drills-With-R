@@ -2,7 +2,7 @@
 library(dplyr)
 
 # load data
-lessons = read.csv("LessonStreaks.csv")
+lessons = read.csv("./06 Streak Leaderboard/LessonStreaks.csv")
 
 # calculate new columns
 lessons_1 = lessons |>

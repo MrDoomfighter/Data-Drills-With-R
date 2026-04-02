@@ -4,7 +4,7 @@ library(dplyr)
 library(tidyr)
 
 # load data
-salesOrdersRaw = read.csv("sales_orders.csv")
+salesOrdersRaw = read.csv("./02 Flatten the Stack/sales_orders.csv")
 
 # parse json
 salesOrders = salesOrdersRaw |>

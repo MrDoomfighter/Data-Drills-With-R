@@ -3,7 +3,7 @@ library(dplyr)
 library(tibbletime)
 
 # read data
-SPY_close_price_5Y = read.csv("SPY_close_price_5Y.csv",
+SPY_close_price_5Y = read.csv("./07 Turning Bullish/SPY_close_price_5Y.csv",
                               colClasses = c('Date', 'numeric'))
 
 # calculate new columns

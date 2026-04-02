@@ -2,7 +2,7 @@
 library(dplyr)
 
 # load data
-coffeeShopSales = read.csv("coffee_shop_sales.csv")
+coffeeShopSales = read.csv("./03 Rolling Up, Looking Back/coffee_shop_sales.csv")
 
 # aggregate data
 coffeeShopSalesAggr = coffeeShopSales |>

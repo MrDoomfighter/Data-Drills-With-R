@@ -2,9 +2,9 @@
 library(dplyr)
 
 # read data
-transactions = read.csv("transactions.csv")
-products = read.csv("products.csv")
-price_history = read.csv("price_history.csv")
+transactions = read.csv("./09 The Price is Right/transactions.csv")
+products = read.csv("./09 The Price is Right/products.csv")
+price_history = read.csv("./09 The Price is Right/price_history.csv")
 
 # merge data
 products_price_history = price_history |>

@@ -2,8 +2,8 @@
 library(dplyr)
 
 # read data
-orders = read.csv("orders.csv")
-promotions = read.csv("promotions.csv")
+orders = read.csv("./04 Spot the Sale/orders.csv")
+promotions = read.csv("./04 Spot the Sale/promotions.csv")
 
 # merge data
 orders_promotions = orders |>
