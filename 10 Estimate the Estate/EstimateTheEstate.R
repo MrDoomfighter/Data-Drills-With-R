@@ -10,12 +10,10 @@ manhatten_property_sales_imputed = manhattan_property_sales |>
     SALE_PRICE = na_if(SALE_PRICE, 0),
     pricePerSqFt = SALE_PRICE / SQUARE_FEET
   ) |>
-  group_by(ZIP_CODE, BUILDING_CLASS) |>
   mutate(
-    pricePerSqFtImputed = coalesce(pricePerSqFt, mean(pricePerSqFt, na.rm = TRUE)),
-    marketValue = coalesce(SALE_PRICE, pricePerSqFtImputed * SQUARE_FEET)
-  ) |>
-  ungroup()
+    marketValue = coalesce(SALE_PRICE, mean(pricePerSqFt, na.rm = TRUE) * SQUARE_FEET),
+    .by = c(ZIP_CODE, BUILDING_CLASS)
+  )
 
 # count of properties above 15 Mil. market value
 manhatten_property_sales_imputed |>
