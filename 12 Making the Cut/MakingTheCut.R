@@ -5,8 +5,8 @@ library(dplyr)
 # load data
 marathonData = read_csv("./12 Making the Cut/marathon-data.csv")
 
-# aggregate data
-marathonData |>
+# recode variables
+marathonData_1 = marathonData |>
   mutate(
     finishBand = cut(
       final |> as.numeric() / 3600,
@@ -23,7 +23,10 @@ marathonData |>
       ),
       right = FALSE
     )
-  ) |>
+  )
+
+# aggregate data
+marathonData_1 |>
   summarise(
     runners = n(),
     .by = finishBand
