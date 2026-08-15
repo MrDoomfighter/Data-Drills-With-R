@@ -21,6 +21,7 @@ bind_rows(
       arrange(channel),
   campaignPerformance_1 |>
     summarise(
+      channel = 'Total',
       ctr = sum(clicks) / sum(impressions) * 100
     )
 )
