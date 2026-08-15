@@ -2,7 +2,7 @@
 library(readr)
 library(dplyr)
 
-# load data
+# read data
 marathonData = read_csv("./12 Making the Cut/marathon-data.csv")
 
 # recode variables

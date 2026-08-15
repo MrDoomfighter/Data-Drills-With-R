@@ -1,0 +1,701 @@
+user_id,country,timezone
+1,Bangladesh,GMT +06:00 — Dhaka
+2,Iceland,"GMT +00:00 — Monrovia, Reykjavik"
+3,South Korea,GMT +09:00 — Seoul
+4,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+5,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+6,Bolivia,"GMT -04:00 — Georgetown, La Paz, San Juan"
+7,South Africa,"GMT +02:00 — Harare, Pretoria"
+8,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+9,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+10,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+11,Bangladesh,GMT +06:00 — Dhaka
+12,South Korea,GMT +09:00 — Seoul
+13,Iceland,"GMT +00:00 — Monrovia, Reykjavik"
+14,Iceland,"GMT +00:00 — Monrovia, Reykjavik"
+15,South Africa,"GMT +02:00 — Harare, Pretoria"
+16,Bolivia,"GMT -04:00 — Georgetown, La Paz, San Juan"
+17,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+18,South Africa,"GMT +02:00 — Harare, Pretoria"
+19,Argentina,GMT -03:00 — City of Buenos Aires
+20,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+21,Nigeria,GMT +01:00 — West Central Africa
+22,Philippines,GMT +08:00 — Manila
+23,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+24,Brazil,GMT -03:00 — Brasilia
+25,Philippines,GMT +08:00 — Manila
+26,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+27,Ghana,GMT +00:00 — Accra
+28,Brazil,GMT -03:00 — Brasilia
+29,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+30,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+31,Bolivia,"GMT -04:00 — Georgetown, La Paz, San Juan"
+32,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+33,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+34,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+35,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+36,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+37,Nigeria,GMT +01:00 — West Central Africa
+38,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+39,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+40,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+41,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+42,South Africa,"GMT +02:00 — Harare, Pretoria"
+43,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+44,Bangladesh,GMT +06:00 — Dhaka
+45,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+46,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+47,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+48,Brazil,GMT -03:00 — Brasilia
+49,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+50,Nigeria,GMT +01:00 — West Central Africa
+51,Bolivia,"GMT -04:00 — Georgetown, La Paz, San Juan"
+52,Ghana,GMT +00:00 — Accra
+53,Philippines,GMT +08:00 — Manila
+54,Argentina,GMT -03:00 — City of Buenos Aires
+55,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+56,Brazil,GMT -03:00 — Brasilia
+57,Brazil,GMT -03:00 — Brasilia
+58,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+59,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+60,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+61,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+62,Ghana,GMT +00:00 — Accra
+63,Philippines,GMT +08:00 — Manila
+64,Bolivia,"GMT -04:00 — Georgetown, La Paz, San Juan"
+65,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+66,Peru,"GMT -05:00 — Bogota, Lima, Quito"
+67,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+68,Nigeria,GMT +01:00 — West Central Africa
+69,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+70,South Africa,"GMT +02:00 — Harare, Pretoria"
+71,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+72,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+73,Nigeria,GMT +01:00 — West Central Africa
+74,Ghana,GMT +00:00 — Accra
+75,Brazil,GMT -03:00 — Brasilia
+76,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+77,Iceland,"GMT +00:00 — Monrovia, Reykjavik"
+78,Peru,"GMT -05:00 — Bogota, Lima, Quito"
+79,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+80,South Korea,GMT +09:00 — Seoul
+81,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+82,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+83,Brazil,GMT -03:00 — Brasilia
+84,South Korea,GMT +09:00 — Seoul
+85,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+86,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+87,Nigeria,GMT +01:00 — West Central Africa
+88,Brazil,GMT -03:00 — Brasilia
+89,Peru,"GMT -05:00 — Bogota, Lima, Quito"
+90,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+91,Nigeria,GMT +01:00 — West Central Africa
+92,Bolivia,"GMT -04:00 — Georgetown, La Paz, San Juan"
+93,Brazil,GMT -03:00 — Brasilia
+94,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+95,Bolivia,"GMT -04:00 — Georgetown, La Paz, San Juan"
+96,Philippines,GMT +08:00 — Manila
+97,Bangladesh,GMT +06:00 — Dhaka
+98,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+99,Ghana,GMT +00:00 — Accra
+100,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+101,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+102,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+103,Peru,"GMT -05:00 — Bogota, Lima, Quito"
+104,Ghana,GMT +00:00 — Accra
+105,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+106,South Africa,"GMT +02:00 — Harare, Pretoria"
+107,Iceland,"GMT +00:00 — Monrovia, Reykjavik"
+108,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+109,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+110,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+111,Bolivia,"GMT -04:00 — Georgetown, La Paz, San Juan"
+112,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+113,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+114,Iceland,"GMT +00:00 — Monrovia, Reykjavik"
+115,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+116,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+117,South Korea,GMT +09:00 — Seoul
+118,South Africa,"GMT +02:00 — Harare, Pretoria"
+119,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+120,Peru,"GMT -05:00 — Bogota, Lima, Quito"
+121,South Africa,"GMT +02:00 — Harare, Pretoria"
+122,South Africa,"GMT +02:00 — Harare, Pretoria"
+123,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+124,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+125,South Africa,"GMT +02:00 — Harare, Pretoria"
+126,Brazil,GMT -03:00 — Brasilia
+127,Iceland,"GMT +00:00 — Monrovia, Reykjavik"
+128,Kenya,GMT +03:00 — Nairobi
+129,Nigeria,GMT +01:00 — West Central Africa
+130,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+131,Philippines,GMT +08:00 — Manila
+132,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+133,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+134,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+135,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+136,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+137,Brazil,GMT -03:00 — Brasilia
+138,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+139,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+140,Bangladesh,GMT +06:00 — Dhaka
+141,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+142,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+143,Argentina,GMT -03:00 — City of Buenos Aires
+144,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+145,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+146,Iceland,"GMT +00:00 — Monrovia, Reykjavik"
+147,Philippines,GMT +08:00 — Manila
+148,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+149,Iceland,"GMT +00:00 — Monrovia, Reykjavik"
+150,South Korea,GMT +09:00 — Seoul
+151,Brazil,GMT -03:00 — Brasilia
+152,Kenya,GMT +03:00 — Nairobi
+153,Brazil,GMT -03:00 — Brasilia
+154,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+155,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+156,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+157,Nigeria,GMT +01:00 — West Central Africa
+158,South Korea,GMT +09:00 — Seoul
+159,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+160,Bangladesh,GMT +06:00 — Dhaka
+161,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+162,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+163,Kenya,GMT +03:00 — Nairobi
+164,Brazil,GMT -03:00 — Brasilia
+165,Bangladesh,GMT +06:00 — Dhaka
+166,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+167,Iceland,"GMT +00:00 — Monrovia, Reykjavik"
+168,Peru,"GMT -05:00 — Bogota, Lima, Quito"
+169,Bangladesh,GMT +06:00 — Dhaka
+170,Brazil,GMT -03:00 — Brasilia
+171,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+172,Argentina,GMT -03:00 — City of Buenos Aires
+173,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+174,Philippines,GMT +08:00 — Manila
+175,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+176,Bolivia,"GMT -04:00 — Georgetown, La Paz, San Juan"
+177,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+178,Singapore,"GMT +08:00 — Kuala Lumpur, Singapore"
+179,Bolivia,"GMT -04:00 — Georgetown, La Paz, San Juan"
+180,Brazil,GMT -03:00 — Brasilia
+181,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+182,South Korea,GMT +09:00 — Seoul
+183,South Africa,"GMT +02:00 — Harare, Pretoria"
+184,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+185,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+186,Argentina,GMT -03:00 — City of Buenos Aires
+187,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+188,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+189,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+190,South Africa,"GMT +02:00 — Harare, Pretoria"
+191,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+192,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+193,Bolivia,"GMT -04:00 — Georgetown, La Paz, San Juan"
+194,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+195,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+196,Bangladesh,GMT +06:00 — Dhaka
+197,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+198,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+199,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+200,Ghana,GMT +00:00 — Accra
+201,Brazil,GMT -03:00 — Brasilia
+202,South Africa,"GMT +02:00 — Harare, Pretoria"
+203,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+204,South Korea,GMT +09:00 — Seoul
+205,Brazil,GMT -03:00 — Brasilia
+206,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+207,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+208,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+209,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+210,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+211,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+212,Ghana,GMT +00:00 — Accra
+213,South Korea,GMT +09:00 — Seoul
+214,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+215,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+216,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+217,South Africa,"GMT +02:00 — Harare, Pretoria"
+218,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+219,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+220,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+221,Philippines,GMT +08:00 — Manila
+222,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+223,Argentina,GMT -03:00 — City of Buenos Aires
+224,Kenya,GMT +03:00 — Nairobi
+225,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+226,Singapore,"GMT +08:00 — Kuala Lumpur, Singapore"
+227,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+228,Ghana,GMT +00:00 — Accra
+229,Iceland,"GMT +00:00 — Monrovia, Reykjavik"
+230,Ghana,GMT +00:00 — Accra
+231,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+232,Singapore,"GMT +08:00 — Kuala Lumpur, Singapore"
+233,Nigeria,GMT +01:00 — West Central Africa
+234,Argentina,GMT -03:00 — City of Buenos Aires
+235,Argentina,GMT -03:00 — City of Buenos Aires
+236,Bangladesh,GMT +06:00 — Dhaka
+237,Philippines,GMT +08:00 — Manila
+238,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+239,Peru,"GMT -05:00 — Bogota, Lima, Quito"
+240,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+241,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+242,Philippines,GMT +08:00 — Manila
+243,Brazil,GMT -03:00 — Brasilia
+244,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+245,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+246,Bolivia,"GMT -04:00 — Georgetown, La Paz, San Juan"
+247,Brazil,GMT -03:00 — Brasilia
+248,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+249,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+250,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+251,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+252,Bolivia,"GMT -04:00 — Georgetown, La Paz, San Juan"
+253,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+254,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+255,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+256,Ghana,GMT +00:00 — Accra
+257,Iceland,"GMT +00:00 — Monrovia, Reykjavik"
+258,South Africa,"GMT +02:00 — Harare, Pretoria"
+259,Singapore,"GMT +08:00 — Kuala Lumpur, Singapore"
+260,Philippines,GMT +08:00 — Manila
+261,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+262,Bolivia,"GMT -04:00 — Georgetown, La Paz, San Juan"
+263,Argentina,GMT -03:00 — City of Buenos Aires
+264,Argentina,GMT -03:00 — City of Buenos Aires
+265,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+266,Ghana,GMT +00:00 — Accra
+267,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+268,Iceland,"GMT +00:00 — Monrovia, Reykjavik"
+269,Kenya,GMT +03:00 — Nairobi
+270,Peru,"GMT -05:00 — Bogota, Lima, Quito"
+271,Philippines,GMT +08:00 — Manila
+272,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+273,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+274,Peru,"GMT -05:00 — Bogota, Lima, Quito"
+275,Philippines,GMT +08:00 — Manila
+276,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+277,South Korea,GMT +09:00 — Seoul
+278,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+279,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+280,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+281,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+282,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+283,Kenya,GMT +03:00 — Nairobi
+284,Kenya,GMT +03:00 — Nairobi
+285,Philippines,GMT +08:00 — Manila
+286,Nigeria,GMT +01:00 — West Central Africa
+287,Ghana,GMT +00:00 — Accra
+288,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+289,Brazil,GMT -03:00 — Brasilia
+290,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+291,South Africa,"GMT +02:00 — Harare, Pretoria"
+292,Ghana,GMT +00:00 — Accra
+293,Argentina,GMT -03:00 — City of Buenos Aires
+294,Iceland,"GMT +00:00 — Monrovia, Reykjavik"
+295,Iceland,"GMT +00:00 — Monrovia, Reykjavik"
+296,Iceland,"GMT +00:00 — Monrovia, Reykjavik"
+297,Ghana,GMT +00:00 — Accra
+298,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+299,Brazil,GMT -03:00 — Brasilia
+300,South Korea,GMT +09:00 — Seoul
+301,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+302,South Africa,"GMT +02:00 — Harare, Pretoria"
+303,Iceland,"GMT +00:00 — Monrovia, Reykjavik"
+304,Kenya,GMT +03:00 — Nairobi
+305,Philippines,GMT +08:00 — Manila
+306,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+307,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+308,Kenya,GMT +03:00 — Nairobi
+309,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+310,Brazil,GMT -03:00 — Brasilia
+311,Bangladesh,GMT +06:00 — Dhaka
+312,Bolivia,"GMT -04:00 — Georgetown, La Paz, San Juan"
+313,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+314,Singapore,"GMT +08:00 — Kuala Lumpur, Singapore"
+315,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+316,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+317,Peru,"GMT -05:00 — Bogota, Lima, Quito"
+318,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+319,Peru,"GMT -05:00 — Bogota, Lima, Quito"
+320,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+321,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+322,South Korea,GMT +09:00 — Seoul
+323,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+324,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+325,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+326,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+327,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+328,Brazil,GMT -03:00 — Brasilia
+329,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+330,Peru,"GMT -05:00 — Bogota, Lima, Quito"
+331,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+332,Bolivia,"GMT -04:00 — Georgetown, La Paz, San Juan"
+333,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+334,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+335,South Africa,"GMT +02:00 — Harare, Pretoria"
+336,Kenya,GMT +03:00 — Nairobi
+337,Bangladesh,GMT +06:00 — Dhaka
+338,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+339,South Africa,"GMT +02:00 — Harare, Pretoria"
+340,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+341,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+342,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+343,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+344,Peru,"GMT -05:00 — Bogota, Lima, Quito"
+345,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+346,Ghana,GMT +00:00 — Accra
+347,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+348,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+349,Iceland,"GMT +00:00 — Monrovia, Reykjavik"
+350,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+351,Bangladesh,GMT +06:00 — Dhaka
+352,Brazil,GMT -03:00 — Brasilia
+353,Iceland,"GMT +00:00 — Monrovia, Reykjavik"
+354,Brazil,GMT -03:00 — Brasilia
+355,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+356,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+357,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+358,Nigeria,GMT +01:00 — West Central Africa
+359,Ghana,GMT +00:00 — Accra
+360,Bangladesh,GMT +06:00 — Dhaka
+361,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+362,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+363,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+364,South Africa,"GMT +02:00 — Harare, Pretoria"
+365,Ghana,GMT +00:00 — Accra
+366,South Korea,GMT +09:00 — Seoul
+367,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+368,South Korea,GMT +09:00 — Seoul
+369,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+370,Philippines,GMT +08:00 — Manila
+371,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+372,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+373,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+374,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+375,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+376,Nigeria,GMT +01:00 — West Central Africa
+377,Philippines,GMT +08:00 — Manila
+378,Brazil,GMT -03:00 — Brasilia
+379,Nigeria,GMT +01:00 — West Central Africa
+380,Nigeria,GMT +01:00 — West Central Africa
+381,Brazil,GMT -03:00 — Brasilia
+382,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+383,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+384,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+385,South Korea,GMT +09:00 — Seoul
+386,Singapore,"GMT +08:00 — Kuala Lumpur, Singapore"
+387,Brazil,GMT -03:00 — Brasilia
+388,Philippines,GMT +08:00 — Manila
+389,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+390,South Korea,GMT +09:00 — Seoul
+391,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+392,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+393,Peru,"GMT -05:00 — Bogota, Lima, Quito"
+394,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+395,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+396,Argentina,GMT -03:00 — City of Buenos Aires
+397,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+398,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+399,Bolivia,"GMT -04:00 — Georgetown, La Paz, San Juan"
+400,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+401,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+402,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+403,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+404,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+405,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+406,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+407,Argentina,GMT -03:00 — City of Buenos Aires
+408,Philippines,GMT +08:00 — Manila
+409,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+410,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+411,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+412,Bangladesh,GMT +06:00 — Dhaka
+413,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+414,Philippines,GMT +08:00 — Manila
+415,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+416,Bolivia,"GMT -04:00 — Georgetown, La Paz, San Juan"
+417,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+418,South Africa,"GMT +02:00 — Harare, Pretoria"
+419,Bangladesh,GMT +06:00 — Dhaka
+420,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+421,Philippines,GMT +08:00 — Manila
+422,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+423,Bangladesh,GMT +06:00 — Dhaka
+424,Bolivia,"GMT -04:00 — Georgetown, La Paz, San Juan"
+425,Brazil,GMT -03:00 — Brasilia
+426,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+427,South Korea,GMT +09:00 — Seoul
+428,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+429,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+430,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+431,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+432,Singapore,"GMT +08:00 — Kuala Lumpur, Singapore"
+433,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+434,Bolivia,"GMT -04:00 — Georgetown, La Paz, San Juan"
+435,Peru,"GMT -05:00 — Bogota, Lima, Quito"
+436,Bolivia,"GMT -04:00 — Georgetown, La Paz, San Juan"
+437,South Korea,GMT +09:00 — Seoul
+438,Nigeria,GMT +01:00 — West Central Africa
+439,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+440,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+441,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+442,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+443,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+444,Brazil,GMT -03:00 — Brasilia
+445,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+446,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+447,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+448,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+449,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+450,South Africa,"GMT +02:00 — Harare, Pretoria"
+451,Ghana,GMT +00:00 — Accra
+452,South Africa,"GMT +02:00 — Harare, Pretoria"
+453,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+454,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+455,Brazil,GMT -03:00 — Brasilia
+456,Brazil,GMT -03:00 — Brasilia
+457,Ghana,GMT +00:00 — Accra
+458,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+459,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+460,Ghana,GMT +00:00 — Accra
+461,Ghana,GMT +00:00 — Accra
+462,Bolivia,"GMT -04:00 — Georgetown, La Paz, San Juan"
+463,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+464,Iceland,"GMT +00:00 — Monrovia, Reykjavik"
+465,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+466,Ghana,GMT +00:00 — Accra
+467,South Africa,"GMT +02:00 — Harare, Pretoria"
+468,Argentina,GMT -03:00 — City of Buenos Aires
+469,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+470,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+471,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+472,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+473,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+474,Brazil,GMT -03:00 — Brasilia
+475,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+476,Kenya,GMT +03:00 — Nairobi
+477,Ghana,GMT +00:00 — Accra
+478,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+479,Iceland,"GMT +00:00 — Monrovia, Reykjavik"
+480,Kenya,GMT +03:00 — Nairobi
+481,Bangladesh,GMT +06:00 — Dhaka
+482,Singapore,"GMT +08:00 — Kuala Lumpur, Singapore"
+483,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+484,South Africa,"GMT +02:00 — Harare, Pretoria"
+485,Kenya,GMT +03:00 — Nairobi
+486,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+487,Brazil,GMT -03:00 — Brasilia
+488,Philippines,GMT +08:00 — Manila
+489,South Africa,"GMT +02:00 — Harare, Pretoria"
+490,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+491,Peru,"GMT -05:00 — Bogota, Lima, Quito"
+492,Philippines,GMT +08:00 — Manila
+493,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+494,Brazil,GMT -03:00 — Brasilia
+495,Iceland,"GMT +00:00 — Monrovia, Reykjavik"
+496,Bolivia,"GMT -04:00 — Georgetown, La Paz, San Juan"
+497,Brazil,GMT -03:00 — Brasilia
+498,Bangladesh,GMT +06:00 — Dhaka
+499,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+500,Philippines,GMT +08:00 — Manila
+501,Philippines,GMT +08:00 — Manila
+502,Iceland,"GMT +00:00 — Monrovia, Reykjavik"
+503,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+504,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+505,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+506,Iceland,"GMT +00:00 — Monrovia, Reykjavik"
+507,South Korea,GMT +09:00 — Seoul
+508,South Korea,GMT +09:00 — Seoul
+509,Bangladesh,GMT +06:00 — Dhaka
+510,Brazil,GMT -03:00 — Brasilia
+511,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+512,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+513,Ghana,GMT +00:00 — Accra
+514,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+515,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+516,Bolivia,"GMT -04:00 — Georgetown, La Paz, San Juan"
+517,Kenya,GMT +03:00 — Nairobi
+518,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+519,Bolivia,"GMT -04:00 — Georgetown, La Paz, San Juan"
+520,Philippines,GMT +08:00 — Manila
+521,South Korea,GMT +09:00 — Seoul
+522,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+523,Philippines,GMT +08:00 — Manila
+524,South Korea,GMT +09:00 — Seoul
+525,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+526,Nigeria,GMT +01:00 — West Central Africa
+527,Ghana,GMT +00:00 — Accra
+528,Peru,"GMT -05:00 — Bogota, Lima, Quito"
+529,Bangladesh,GMT +06:00 — Dhaka
+530,Ghana,GMT +00:00 — Accra
+531,South Africa,"GMT +02:00 — Harare, Pretoria"
+532,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+533,Bolivia,"GMT -04:00 — Georgetown, La Paz, San Juan"
+534,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+535,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+536,Argentina,GMT -03:00 — City of Buenos Aires
+537,Brazil,GMT -03:00 — Brasilia
+538,South Africa,"GMT +02:00 — Harare, Pretoria"
+539,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+540,South Africa,"GMT +02:00 — Harare, Pretoria"
+541,Peru,"GMT -05:00 — Bogota, Lima, Quito"
+542,Argentina,GMT -03:00 — City of Buenos Aires
+543,Philippines,GMT +08:00 — Manila
+544,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+545,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+546,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+547,Bangladesh,GMT +06:00 — Dhaka
+548,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+549,Iceland,"GMT +00:00 — Monrovia, Reykjavik"
+550,Kenya,GMT +03:00 — Nairobi
+551,Iceland,"GMT +00:00 — Monrovia, Reykjavik"
+552,Philippines,GMT +08:00 — Manila
+553,South Africa,"GMT +02:00 — Harare, Pretoria"
+554,Bangladesh,GMT +06:00 — Dhaka
+555,Philippines,GMT +08:00 — Manila
+556,South Africa,"GMT +02:00 — Harare, Pretoria"
+557,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+558,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+559,Philippines,GMT +08:00 — Manila
+560,Iceland,"GMT +00:00 — Monrovia, Reykjavik"
+561,South Africa,"GMT +02:00 — Harare, Pretoria"
+562,Kenya,GMT +03:00 — Nairobi
+563,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+564,Ghana,GMT +00:00 — Accra
+565,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+566,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+567,Bolivia,"GMT -04:00 — Georgetown, La Paz, San Juan"
+568,Iceland,"GMT +00:00 — Monrovia, Reykjavik"
+569,Bolivia,"GMT -04:00 — Georgetown, La Paz, San Juan"
+570,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+571,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+572,Nigeria,GMT +01:00 — West Central Africa
+573,Brazil,GMT -03:00 — Brasilia
+574,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+575,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+576,Brazil,GMT -03:00 — Brasilia
+577,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+578,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+579,South Korea,GMT +09:00 — Seoul
+580,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+581,South Africa,"GMT +02:00 — Harare, Pretoria"
+582,Bangladesh,GMT +06:00 — Dhaka
+583,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+584,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+585,South Korea,GMT +09:00 — Seoul
+586,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+587,Singapore,"GMT +08:00 — Kuala Lumpur, Singapore"
+588,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+589,Bangladesh,GMT +06:00 — Dhaka
+590,Nigeria,GMT +01:00 — West Central Africa
+591,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+592,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+593,South Korea,GMT +09:00 — Seoul
+594,South Korea,GMT +09:00 — Seoul
+595,Brazil,GMT -03:00 — Brasilia
+596,Bangladesh,GMT +06:00 — Dhaka
+597,Bangladesh,GMT +06:00 — Dhaka
+598,Iceland,"GMT +00:00 — Monrovia, Reykjavik"
+599,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+600,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+601,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+602,South Africa,"GMT +02:00 — Harare, Pretoria"
+603,South Korea,GMT +09:00 — Seoul
+604,South Africa,"GMT +02:00 — Harare, Pretoria"
+605,South Korea,GMT +09:00 — Seoul
+606,Ghana,GMT +00:00 — Accra
+607,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+608,Peru,"GMT -05:00 — Bogota, Lima, Quito"
+609,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+610,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+611,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+612,Philippines,GMT +08:00 — Manila
+613,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+614,Iceland,"GMT +00:00 — Monrovia, Reykjavik"
+615,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+616,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+617,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+618,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+619,Bangladesh,GMT +06:00 — Dhaka
+620,Singapore,"GMT +08:00 — Kuala Lumpur, Singapore"
+621,Bangladesh,GMT +06:00 — Dhaka
+622,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+623,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+624,Argentina,GMT -03:00 — City of Buenos Aires
+625,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+626,Philippines,GMT +08:00 — Manila
+627,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+628,Kenya,GMT +03:00 — Nairobi
+629,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+630,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+631,Ghana,GMT +00:00 — Accra
+632,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+633,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+634,Argentina,GMT -03:00 — City of Buenos Aires
+635,Philippines,GMT +08:00 — Manila
+636,Iceland,"GMT +00:00 — Monrovia, Reykjavik"
+637,Philippines,GMT +08:00 — Manila
+638,Brazil,GMT -03:00 — Brasilia
+639,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+640,Ghana,GMT +00:00 — Accra
+641,Brazil,GMT -03:00 — Brasilia
+642,Singapore,"GMT +08:00 — Kuala Lumpur, Singapore"
+643,Bolivia,"GMT -04:00 — Georgetown, La Paz, San Juan"
+644,Peru,"GMT -05:00 — Bogota, Lima, Quito"
+645,Iceland,"GMT +00:00 — Monrovia, Reykjavik"
+646,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+647,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+648,South Korea,GMT +09:00 — Seoul
+649,Brazil,GMT -03:00 — Brasilia
+650,Ghana,GMT +00:00 — Accra
+651,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+652,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+653,South Korea,GMT +09:00 — Seoul
+654,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+655,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+656,Ghana,GMT +00:00 — Accra
+657,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+658,South Africa,"GMT +02:00 — Harare, Pretoria"
+659,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+660,Iceland,"GMT +00:00 — Monrovia, Reykjavik"
+661,Peru,"GMT -05:00 — Bogota, Lima, Quito"
+662,Bolivia,"GMT -04:00 — Georgetown, La Paz, San Juan"
+663,Mexico,"GMT -06:00 — Guadalajara, Mexico City, Monterrey"
+664,Nigeria,GMT +01:00 — West Central Africa
+665,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+666,Iceland,"GMT +00:00 — Monrovia, Reykjavik"
+667,Ghana,GMT +00:00 — Accra
+668,South Korea,GMT +09:00 — Seoul
+669,Bangladesh,GMT +06:00 — Dhaka
+670,Kenya,GMT +03:00 — Nairobi
+671,Brazil,GMT -03:00 — Brasilia
+672,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+673,Argentina,GMT -03:00 — City of Buenos Aires
+674,Iceland,"GMT +00:00 — Monrovia, Reykjavik"
+675,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+676,Kenya,GMT +03:00 — Nairobi
+677,Bangladesh,GMT +06:00 — Dhaka
+678,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+679,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+680,Brazil,GMT -03:00 — Brasilia
+681,Argentina,GMT -03:00 — City of Buenos Aires
+682,Iceland,"GMT +00:00 — Monrovia, Reykjavik"
+683,Colombia,"GMT -05:00 — Bogota, Lima, Quito"
+684,Singapore,"GMT +08:00 — Kuala Lumpur, Singapore"
+685,Brazil,GMT -03:00 — Brasilia
+686,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+687,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+688,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+689,Nigeria,GMT +01:00 — West Central Africa
+690,South Africa,"GMT +02:00 — Harare, Pretoria"
+691,South Korea,GMT +09:00 — Seoul
+692,Pakistan,"GMT +05:00 — Islamabad, Karachi"
+693,Philippines,GMT +08:00 — Manila
+694,Japan,"GMT +09:00 — Osaka, Sapporo, Tokyo"
+695,Thailand,"GMT +07:00 — Bangkok, Hanoi, Jakarta"
+696,Bolivia,"GMT -04:00 — Georgetown, La Paz, San Juan"
+697,Saudi Arabia,"GMT +03:00 — Kuwait, Riyadh"
+698,Peru,"GMT -05:00 — Bogota, Lima, Quito"
+699,UAE,"GMT +04:00 — Abu Dhabi, Muscat"
+700,South Korea,GMT +09:00 — Seoul
