@@ -1,0 +1,74 @@
+parent_item,child_item,quantity_per
+Trailhawk 700,Front Wheelset,1
+Trailhawk 700,Rear Wheelset,1
+Trailhawk 700,Drivetrain Assembly,1
+Trailhawk 700,Brake Assembly (Rear),1
+Trailhawk 700,Frame Assembly,1
+Trailhawk 700,Seat Assembly,1
+Coastal Cruiser,Front Wheelset,1
+Coastal Cruiser,Rear Wheelset,1
+Coastal Cruiser,Drivetrain Assembly,1
+Coastal Cruiser,Brake Assembly (Rear),1
+Coastal Cruiser,Frame Assembly,1
+Coastal Cruiser,Seat Assembly,1
+Summit Climber,Front Wheelset,1
+Summit Climber,Rear Wheelset,1
+Summit Climber,Drivetrain Assembly,1
+Summit Climber,Brake Assembly (Rear),1
+Summit Climber,Frame Assembly,1
+Summit Climber,Seat Assembly,1
+Metro Commuter,Front Wheelset,1
+Metro Commuter,Rear Wheelset,1
+Metro Commuter,Drivetrain Assembly,1
+Metro Commuter,Brake Assembly (Rear),1
+Metro Commuter,Frame Assembly,1
+Metro Commuter,Seat Assembly,1
+Gravel Voyager,Front Wheelset,1
+Gravel Voyager,Rear Wheelset,1
+Gravel Voyager,Drivetrain Assembly,1
+Gravel Voyager,Brake Assembly (Rear),1
+Gravel Voyager,Frame Assembly,1
+Gravel Voyager,Seat Assembly,1
+Kids Explorer 20,Front Wheelset,1
+Kids Explorer 20,Rear Wheelset,1
+Kids Explorer 20,Drivetrain Assembly,1
+Kids Explorer 20,Brake Assembly (Rear),1
+Kids Explorer 20,Frame Assembly,1
+Kids Explorer 20,Seat Assembly,1
+Trailhawk 700,Brake Assembly (Front),1
+Summit Climber,Brake Assembly (Front),1
+Gravel Voyager,Brake Assembly (Front),1
+Gravel Voyager,M6x30 Hex Bolt,2
+Metro Commuter,Brake Assembly (Front),1
+Metro Commuter,Kickstand Assembly,1
+Metro Commuter,Fender Kit,2
+Coastal Cruiser,Brake Assembly (Front),1
+Coastal Cruiser,Kickstand Assembly,1
+Coastal Cruiser,Fender Kit,2
+Kids Explorer 20,Kickstand Assembly,1
+Kids Explorer 20,M5x20 Hex Bolt,4
+Front Wheelset,Front Hub Assembly,1
+Front Wheelset,Stainless Spoke 2.0mm,20
+Front Wheelset,Rim Tape,1
+Rear Wheelset,Rear Hub Assembly,1
+Rear Wheelset,Stainless Spoke 2.0mm,24
+Rear Wheelset,Rim Tape,1
+Drivetrain Assembly,Chainring Assembly,1
+Drivetrain Assembly,Chain Pin Link,114
+Brake Assembly (Front),Caliper Unit,1
+Brake Assembly (Front),Housing Cable (Brake),1
+Brake Assembly (Rear),Caliper Unit,1
+Brake Assembly (Rear),Housing Cable (Brake),1
+Frame Assembly,M4x15 Hex Bolt,6
+Seat Assembly,M4x15 Hex Bolt,2
+Kickstand Assembly,M4x15 Hex Bolt,3
+Fender Kit,M4x15 Hex Bolt,4
+Front Hub Assembly,Sealed Bearing 608,2
+Front Hub Assembly,M5x20 Hex Bolt,2
+Front Hub Assembly,Axle Nut,2
+Rear Hub Assembly,Sealed Bearing 608,2
+Rear Hub Assembly,M6x30 Hex Bolt,2
+Rear Hub Assembly,Axle Nut,2
+Chainring Assembly,M4x15 Hex Bolt,4
+Caliper Unit,Brake Pad (Organic Compound),2
+Caliper Unit,M5x20 Hex Bolt,2
